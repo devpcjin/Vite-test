@@ -5,3 +5,10 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 ## Recommended IDE Setup
 
 - [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+
+## Refer
+- https://live-everyday.tistory.com/219
+- https://vitejs-kr.github.io/guide/env-and-mode.html
+- https://stackoverflow.com/questions/66043612/vue3-vite-project-alias-src-to-not-working
+- https://yemsu.github.io/vue3-router/
+- https://devbirdfeet.tistory.com/105
